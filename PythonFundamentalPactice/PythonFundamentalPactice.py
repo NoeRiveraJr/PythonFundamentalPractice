@@ -68,3 +68,4 @@ myName = "noe rivera"
 print(myName.capitalize())
 print(myName.count("e"))
 print(myName.find("ri"))
+print("This is the end of my program!")
