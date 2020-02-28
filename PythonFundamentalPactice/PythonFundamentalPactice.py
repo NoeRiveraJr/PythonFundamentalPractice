@@ -54,7 +54,7 @@ print('The average of the numbers you inputted earlier is:', Average(num1,num2,n
 
 print("4 to the power of 3 is", int(math.pow(4,3))) # before I can utilize the following funtions, I had to import the math module
 print("I will be using math functions for the next 8 lines")
-print(math.floor(4.3))
+print(math.floor(4.2))
 print(math.floor(10.9))
 print(math.ceil(4.3))
 print(math.ceil(10.9))
